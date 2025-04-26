@@ -6,12 +6,13 @@ To write a python program for a search function with parameter list name and the
 
 
 ## Algorithm
+```
 1.Sequential search that checks each element one by one.
 2.Simple and easy to implement.
 3.Works on unsorted lists.
 4.Time complexity is O(n) in worst case.
 5.Stops as soon as the element is found or list ends.
-
+```
 
 ```
 /*
