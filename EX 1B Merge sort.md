@@ -10,12 +10,12 @@ To write a python program to sort the first half of the list using merge sort.
 3.Merge sorted halves by comparing elements and building a new sorted list.
 4.Time complexity is always O(n log n).
 5.Stable and efficient for large datasets.
-/*
+```
+
 Program to implement Merge Sort
 Developed by: Jayaseelan U
 Register Number:  212223220039
-```
-*/
+
 # program:
 ```
 def mergesort(li):
