@@ -4,10 +4,12 @@
 To write a program to create a recursive function to reverse a string.
 
 ## Algorithm
+```
 1.Take input from the user and store it in a variable text.
 2.Use slicing with step -1 to reverse the string: text[::-1].
 3.Store the reversed string in a variable reverse.
 4.Print the reversed string.
+```
 
 ```
 /*
@@ -24,7 +26,8 @@ reverse = text[::-1]
 print(reverse)
 ```
 ## Output:
-![image](https://github.com/user-/assets/858e102b-a97d-4dfd-b4bf-60e14d715858)
+![1](https://github.com/user-attachments/assets/6f931a2b-47ba-4578-833c-64c4b36f61b2)
+
 
 
 
