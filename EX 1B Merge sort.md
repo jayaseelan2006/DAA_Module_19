@@ -4,6 +4,7 @@
 To write a python program to sort the first half of the list using merge sort.
 
 ## Algorithm
+```
 1.Divide the list into two halves recursively until single-element lists are reached.
 2.Sort each half individually using recursion.
 3.Merge sorted halves by comparing elements and building a new sorted list.
@@ -13,6 +14,7 @@ To write a python program to sort the first half of the list using merge sort.
 Program to implement Merge Sort
 Developed by: Jayaseelan U
 Register Number:  212223220039
+```
 */
 # program:
 ```
